@@ -1,0 +1,51 @@
+🎓 Student Details
+
+Name: Ananya Sharma
+
+Student ID: STU2025-0145
+
+Course/Program: B.Sc. Computer Science
+
+Year/Semester: 2nd Year / Semester 4
+
+Date of Birth: 15 Aug 2004
+
+Email: ananya.sharma@university.edu
+
+Phone: +91-9876543210
+
+Address: 21, Green Valley, New Delhi, India
+
+📚 Academic Info
+
+Subjects Enrolled:
+
+Data Structures
+
+Database Management Systems
+
+Operating Systems
+
+Probability & Statistics
+
+CGPA (till last semester): 8.5 / 10
+
+📅 Attendance
+
+Overall Attendance: 87%
+
+Subject-wise:
+
+Data Structures – 90%
+
+DBMS – 85%
+
+OS – 82%
+
+Probability – 91%
+
+💰 Fees Status
+
+Tuition Fees: Paid (till Semester 4)
+
+Library Dues: None
